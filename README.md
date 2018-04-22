@@ -1,20 +1,23 @@
 # Final-project
 
-**Title:** Thermo images
+**Title:** Laser flashlight
 
 **Description:** 
->By using thermo sensors and have it attateched to my fingertips like a glove, it can detect the temperature of objects or organisms when I touched them. As the temperature is being read, a monitor displays the image of how temperature might look like. This could be achieved by inputting a equation/formula to the program, so the image changes based on the reading of the temperature. I can try using a formula that allows both positive and negative temperature to show images.
+>By using laser sensor and concave lens, the laser would project light to a wider angle than a normal flat lensed flashlight.
 
 **How is this responsive to the environment:**
->Since temperature is just a concept that is unperceivable with our naked eye, it will be great to know how to how temperature looks viusally. I know through infrared, we can see how hot or cold the human body is, but I want to do things differently and creatively. Just like how soundwaves can create pattern, I want to try making temperatures crete patterns and images too.
+>Lasers are not used so commonly, but when we see it, we admire it. By making a flashlight out of laser insted of LED,it becomes more interesting and encourages people to use them recreationally.
 
 **Components:**
 >
-1.Molded glove
-    -will be 3D printed
->
-2.Thermosensors
+1.Flashlight 
     -store bought
 >
-3.Monitor screen
+2.Laser sensors
+    -online purchased
+>
+3.Battery
+    -store bought
+    
+4.Lens
     -store bought
