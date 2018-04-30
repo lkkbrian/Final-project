@@ -3,10 +3,10 @@
 **Title:** Laser flashlight
 
 **Description:** 
->By using laser sensor and concave lens, the laser would project light to a wider angle than a normal flat lensed flashlight.
+>A multipurposed led flashlight with laser built in.
 
 **How is this responsive to the environment:**
->Lasers are not used so commonly, but when we see it, we admire it. By making a flashlight out of laser insted of LED,it becomes more interesting and encourages people to use them recreationally.
+>This flashlight takes searching things to a wider sense. Not only does it contain a LED in it, it has blinking mode for SOS signaling and laser in it to make pin point locating. With a slightly concaved lens, the LED can project the light in a brighter, broader range, which makes finding things more efficient.
 
 **Components:**
 >
@@ -16,8 +16,6 @@
 2.Laser sensors
     -online purchased
 >
-3.Battery
-    -store bought
     
-4.Lens
+3.Lens
     -store bought
