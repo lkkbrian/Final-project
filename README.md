@@ -21,3 +21,6 @@
 >
 3.Lens
     -store bought
+
+**Diagram**
+![diagram](https://user-images.githubusercontent.com/35850909/39423641-c1b32a1c-4c27-11e8-9dc7-e8440b58a82a.png)
